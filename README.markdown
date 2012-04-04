@@ -16,12 +16,16 @@ for Talk
 for Lightning Talk
 ==================
 
- * ブログツールは自分で書け * Picasa 便利
+ * ブログツールは自分で書け
  * Picasa 便利
  * Add-on SDK で JSDeferred (JavaScript, HTML, CSS, Firefox)
  * media query 活用術 (HTML, CSS)
  * JSDeferred を node.js で使う
  * bdfcanvas
+   (canvas, font)
  * Chemr-js
- * セミ
+ * FlashAir で最新画像表示するやつ (JS)
+   (canvas, android, iphone, localStorage, plack)
+ * TASS (もう飽きたけど)
+
 
