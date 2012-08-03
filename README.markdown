@@ -10,12 +10,17 @@ for Talk
  * (10分) ACE.js で頑張る
    コードハイライティング
    カスタムモード
- * (40分) ブログをつくろう (ライブコーディング)
+ * キミだけのブログをつくろう
+   SQLite Basic Auth, Backup 機能つきのブログを VPS につくる
+   URL の設計
+   認証の設計 (自分専用ならセッションはいらない (むしろあると管理が大変))
+   自分専用ならセキュリティ問題に怯える必要がほぼない
+   Perl, SQL, HTML, JS, CSS 全部つかえるよ
+
 
 for Lightning Talk
 ==================
 
- * ブログツールは自分で書け
  * Picasa 便利
  * Add-on SDK で JSDeferred (JavaScript, HTML, CSS, Firefox)
  * media query 活用術 (HTML, CSS)
