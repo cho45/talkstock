@@ -1,12 +1,10 @@
 TALKSTOCK
 =========
 
+
 for Talk
 ========
 
- * (10分) HTML microdata の実践と応用
-   microdata によるマークアップと、JavaScript との連携 (安全な値の渡しかた)
-   google の rich snippet tool (google profile との連携)
  * (10分) ACE.js で頑張る
    コードハイライティング
    カスタムモード
@@ -21,6 +19,14 @@ for Talk
 for Lightning Talk
 ==================
 
+ * モールスデコーダー + モールス練習機 + マイクロバート
+ * String_random.js
+ * Teng update
+ * gmailtozaim
+ * Config-ENV
+ * HTML microdata の実践と応用
+   microdata によるマークアップと、JavaScript との連携 (安全な値の渡しかた)
+   google の rich snippet tool (google profile との連携)
  * Picasa 便利
  * Add-on SDK で JSDeferred (JavaScript, HTML, CSS, Firefox)
  * media query 活用術 (HTML, CSS)
